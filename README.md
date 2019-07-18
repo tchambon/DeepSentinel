@@ -11,4 +11,4 @@ This repository shows:
 - [How to use the model pretrained on EuroSAT](https://github.com/tchambon/DeepSentinel/tree/master/Training) for you own classification tasks.
 - [How to process and visualize](https://github.com/tchambon/DeepSentinel/tree/master/Data%20Preprocessing) multispectral images.
 
-The weights of the pretrained model [can be downloaded here](https://github.com/tchambon/DeepSentinel/tree/master/Weights%20of%20pretrained%20model).
+You can download the [weights of the pretrained model](https://github.com/tchambon/DeepSentinel/tree/master/Weights%20of%20pretrained%20model).
