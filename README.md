@@ -2,7 +2,7 @@
 
 The goal of this repository is to give tools to use Deep Learning on Sentinel-2 satellite images.
 
-A blog post has been written about the context (to be published soon).
+A blog post has been written about the context: [Fighting Hunger through Open Satellite Data: A New State of the Art for Land Use Classification](https://medium.com/omdena/fighting-hunger-through-open-satellite-data-a-new-state-of-the-art-for-land-use-classification-f57f20b7294b).
 
 This repository shows:
 
